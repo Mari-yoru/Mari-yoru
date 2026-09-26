@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👩🏻‍💻 Mariele Ferreira
 
-<!--
-**Mari-yoru/Mari-yoru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Programação`**
 
-Here are some ideas to get you started:
+Atualmente, estou dedicando meus estudos ao universo do desenvolvimento de software, construindo minha base na computação e desenvolvendo meus primeiros projetos. Sou apaixonada por tecnologia e pela forma como o código pode resolver problemas reais. Meu foco no momento é aprender [inserir linguagem/tecnologia, ex: Python, JavaScript, etc.] e colocar todo o conhecimento em prática.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🤖 Linguagens e Tecnologias
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
